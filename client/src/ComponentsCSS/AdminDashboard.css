@@ -1,0 +1,32 @@
+
+
+#form {
+	background-color: #FFFFFF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0;
+	height: 100%;
+	text-align: center;
+    /* width: 1000px; */
+}
+
+.form{
+	max-width:auto;
+	padding:0;
+}
+
+.form input{
+	width:200px;
+}
+
+.date{
+	width:800px;
+
+}
+.background{}
+
+/* #main{
+    margin-top: 300px;
+} */
